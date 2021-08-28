@@ -1,0 +1,12 @@
+Patient,Age,Name,Product,Status,Quantity
+rakesh,22,Dr Raj,Ultrasound,declined,2
+rakesh,22,Dr Mohan,MRI,presented,4
+katty,21,Dr Rekha,Ultrasound,pending,3
+katty,21,Dr Raj,Ultrasound,presented,2
+ram,12,Dr Anjan,MRI,completed,3
+ram,12,Dr Raj,Ultrasound,completed,1
+rohan,32,Dr Shivakumar,Colour Doppler,declined,3
+rohan,32,Dr Mohan,MRI,pending,2
+rohan,32,Dr Mohan,MRI,pending,2
+rohan,32,Dr Mohan,MRI,pending,2
+Lokesh,22,Dr Shivakumar,MRI,pending,3
